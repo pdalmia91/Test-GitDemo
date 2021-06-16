@@ -35,7 +35,7 @@ namespace ConsoleApp3
 
             return area;
         }
-
+        // calculating the perimeter
         public double FindAreaInDouble()
         {
             double area;
