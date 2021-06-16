@@ -6,6 +6,7 @@ namespace ConsoleApp3
 {
     interface Interface1
     {
+        // contract method
         void show();
     }
 }
