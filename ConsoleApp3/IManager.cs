@@ -6,6 +6,7 @@ namespace ConsoleApp3
 {
     interface IManager
     {
+        // interface methods
         void AddEmployee();
         void DeleteManager();
     }
