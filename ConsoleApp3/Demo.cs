@@ -45,6 +45,15 @@ namespace ConsoleApp3
             return area;
         }
 
+        public int FindPerimeter()
+        {
+            int perimeter;
+
+            perimeter = 2 * (Length + Breadth);
+
+            return perimeter;
+        }
+
         public override void show1()
         {
             Console.WriteLine("Child Class");
